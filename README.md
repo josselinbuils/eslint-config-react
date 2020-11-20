@@ -1,6 +1,6 @@
 # eslint-config-react
 
-My own eslint rules.
+My own eslint rules for React/TypeScript projects.
 
 ## Install
 
