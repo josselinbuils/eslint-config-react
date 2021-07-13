@@ -4,7 +4,6 @@ module.exports = {
     'airbnb/rules/react',
     'airbnb/rules/react-a11y',
     'airbnb/hooks',
-    'prettier/react',
   ],
   plugins: ['jsx-a11y', 'react'],
   rules: {
