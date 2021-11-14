@@ -1,6 +1,6 @@
 {
   "name": "@josselinbuils/eslint-config-react",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "My own eslint rules for React projects.",
   "main": ".eslintrc.js",
   "repository": "https://github.com/josselinbuils/eslint-config-react",
@@ -9,6 +9,9 @@
   "scripts": {
     "lint": "eslint .eslintrc.js"
   },
+  "files": [
+    ".eslintrc.js"
+  ],
   "peerDependencies": {
     "@josselinbuils/eslint-config-typescript": "^0.4.0",
     "@typescript-eslint/eslint-plugin": "5",
